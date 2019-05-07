@@ -1,0 +1,9 @@
+Документация по asyncio
+https://docs.python.org/3/library/asyncio-future.html
+https://docs.python.org/3/library/asyncio-eventloop.html
+
+Документация по understat
+https://understat.readthedocs.io
+
+Откуда брать данные
+http://www.football-data.co.uk/englandm.php
